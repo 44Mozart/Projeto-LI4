@@ -1,0 +1,156 @@
+Atores:
+Utilizador e Sistema
+
+
+
+Use Case: Utilizador envia pedido de registo para ser introduzido na base de dados da aplicação
+Pré-Condição: Utilizador não está registado
+Pós-Condição: Pedido de registo aceite
+
+Fluxo Normal:
+1. utilizador diz que quer registar-se
+2. sistema indica como requisitos o nome, o email e a palavra-passe
+3. utilizador responde com todos os requesitos
+4. sistema regista o utlizador na base de dados
+
+Exceção(4.):
+1. sistema notifica o utilizador que o pedido de registo não foi aceite 
+
+
+
+
+
+Use Case: Iniciar Sessão na app
+Pré-Condição: Utlizador ainda não autenticado
+Pós-Condição: Utilizador autenticado
+
+Fluxo Normal:
+1. utilizador demonstra vontade de iniciar sessão
+2. sistema indica como requisitos o nome de utilizador e palavra-passe
+3. utilizador insere o nome de utilizador e palavra-passe
+4. sistema confirma os dados inseridos pelo utilizador e autentica-o
+
+Exceção(4.):
+1. sistema refere que os dados introduzidos são inválidos e não autentica 
+
+
+
+
+
+
+
+Use Case: Editar perfil de utilizador
+Pré-Condição: Utilizador com sessão iniciada
+Pós-Condição: Perfil alterado
+
+Fluxo Normal:
+1. utilizador indica que pretende editar o seu perfil
+2. sistema apresenta todos os dados do utlizador que estão na base de dados
+3. utlizador faz as alterações que pretende nos campos escolhidos
+4. utilizador informa que concluiu as alterações
+5. sistema processa as alterações efetuadas
+
+Exceção(4.):
+1. utilizador informa que deseja cancelar as edições
+
+
+
+
+
+Use Case: Recuperar palavra-passe
+Pré-Condição: Utlizador ainda não autenticado
+Pós-Condição: Palavra-passe recuperada e utilizador autenticado
+
+Fluxo Normal:
+1. utilizador envia pedido ao sistema para recuperar a sua palavra-passe esquecida
+2. sistema pede ao utilizador que este insira o seu email
+3. utilizador insere o email
+4. sistema envia email ao utilizador com nova palavra-passe
+5. utilizador recebe nova palavra-passe e autentica-se
+
+Fluxo Alternativo(3.):
+1. sistema informa que o email inserido não é válido
+2. utlizador insere novamente o email
+3. volta para 4
+
+
+
+
+
+
+Use Case: Terminar sessão na app
+Pré-Condição: Utilizador com sessão iniciada
+Pós-Condição: Sessão terminada
+
+Fluxo Normal:
+1. utilizador informa o sistema de que deseja terminar a sessão
+2. sistema processa o desejo do utilizador
+
+
+
+
+
+
+Use Case: Colocar uma corrida em específico na lista dos favoritos
+Pré-Condição: Utilizador autenticado
+Pós-Condição: Corrida adicionada à lista
+
+Fluxo Normal:
+1. sistema apresenta uma lista das corridas a decorrer futuramente
+2. utilizador refere que pretende inserir uma corrida na sua lista de favoritos
+3. sistema processa o pedido
+4. sistema envia confirmação de que a corrida foi inserida nos favoritos com sucesso
+
+Exceção(3.):
+1. sistema informa o utilizador que a corrida já está na sua lista de favoritos
+
+
+
+
+
+
+Use Case: Enviar notificação ao utilizador
+Pré-Condição: Utilizador autenticado
+Pós-Condição: Notificação processada e enviada
+
+Fluxo Normal:
+1. sistema repara que surgiu uma notícia que envolve algo favorito pelo utilizador
+2. sistema envia notificação com a notícia para o utilizador
+3. utilizador recebe a notificação na sua lista de notificações
+
+
+
+
+
+
+
+Use Case: Consultar as notificações 
+Pré-Condição: Utilizador autenticado
+Pós-Condição: Utilizador observa a lista de notificações que recebeu 
+
+Fluxo Normal:
+1. utilizador informa que deseja consultar as suas notificações
+2. sistema processa o pedido
+3. sistema apresenta a lista de notificações
+
+Exceção(2.):
+1. sistema informa que não existem notificações a mostrar
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,5 +1,0 @@
-C:\Users\kikoc\Desktop\Universidade\LI4\Projeto\obj\Debug\net5.0\Projeto.csproj.AssemblyReference.cache
-C:\Users\kikoc\Desktop\Universidade\LI4\Projeto\obj\Debug\net5.0\Projeto.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\kikoc\Desktop\Universidade\LI4\Projeto\obj\Debug\net5.0\Projeto.AssemblyInfoInputs.cache
-C:\Users\kikoc\Desktop\Universidade\LI4\Projeto\obj\Debug\net5.0\Projeto.AssemblyInfo.cs
-C:\Users\kikoc\Desktop\Universidade\LI4\Projeto\obj\Debug\net5.0\Projeto.csproj.CoreCompileInputs.cache

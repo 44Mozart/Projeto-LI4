@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "dgSpecHash": "koBkFBOGHiW11N0iFtMfoX//OH4y6/JCLkRMjSAMRbYs/OG7IBlV/WtTb72HuJAQFnzrcvl+i9hnHJbjN13Nrg==",
+  "success": true,
+  "projectFilePath": "/Users/maria/Documentos/3ano/2Semestre/LI4/LI4/PitStop/PitStop/PitStop.csproj",
+  "expectedPackageFiles": [
+    "/Users/maria/.nuget/packages/microsoft.aspnet.webapi.client/5.2.7/microsoft.aspnet.webapi.client.5.2.7.nupkg.sha512",
+    "/Users/maria/.nuget/packages/microsoft.extensions.configuration/3.1.4/microsoft.extensions.configuration.3.1.4.nupkg.sha512",
+    "/Users/maria/.nuget/packages/microsoft.extensions.configuration.abstractions/3.1.4/microsoft.extensions.configuration.abstractions.3.1.4.nupkg.sha512",
+    "/Users/maria/.nuget/packages/microsoft.extensions.configuration.fileextensions/3.1.4/microsoft.extensions.configuration.fileextensions.3.1.4.nupkg.sha512",
+    "/Users/maria/.nuget/packages/microsoft.extensions.configuration.json/3.1.4/microsoft.extensions.configuration.json.3.1.4.nupkg.sha512",
+    "/Users/maria/.nuget/packages/microsoft.extensions.fileproviders.abstractions/3.1.4/microsoft.extensions.fileproviders.abstractions.3.1.4.nupkg.sha512",
+    "/Users/maria/.nuget/packages/microsoft.extensions.fileproviders.physical/3.1.4/microsoft.extensions.fileproviders.physical.3.1.4.nupkg.sha512",
+    "/Users/maria/.nuget/packages/microsoft.extensions.filesystemglobbing/3.1.4/microsoft.extensions.filesystemglobbing.3.1.4.nupkg.sha512",
+    "/Users/maria/.nuget/packages/microsoft.extensions.logging.abstractions/3.1.4/microsoft.extensions.logging.abstractions.3.1.4.nupkg.sha512",
+    "/Users/maria/.nuget/packages/microsoft.extensions.primitives/3.1.4/microsoft.extensions.primitives.3.1.4.nupkg.sha512",
+    "/Users/maria/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/maria/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
+    "/Users/maria/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512",
+    "/Users/maria/.nuget/packages/newtonsoft.json.bson/1.0.1/newtonsoft.json.bson.1.0.1.nupkg.sha512",
+    "/Users/maria/.nuget/packages/restclient/3.446.20952/restclient.3.446.20952.nupkg.sha512",
+    "/Users/maria/.nuget/packages/restsharp/106.11.7/restsharp.106.11.7.nupkg.sha512"
+  ],
+  "logs": []
+}

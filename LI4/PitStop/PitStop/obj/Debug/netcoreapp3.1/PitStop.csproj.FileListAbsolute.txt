@@ -53,3 +53,9 @@ C:\Users\kikoc\Desktop\Universidade\CG\Projeto\Projeto-LI4\LI4\PitStop\PitStop\o
 C:\Users\kikoc\Desktop\Universidade\CG\Projeto\Projeto-LI4\LI4\PitStop\PitStop\obj\Debug\netcoreapp3.1\PitStop.dll
 C:\Users\kikoc\Desktop\Universidade\CG\Projeto\Projeto-LI4\LI4\PitStop\PitStop\obj\Debug\netcoreapp3.1\PitStop.pdb
 C:\Users\kikoc\Desktop\Universidade\CG\Projeto\Projeto-LI4\LI4\PitStop\PitStop\obj\Debug\netcoreapp3.1\PitStop.genruntimeconfig.cache
+C:\Users\kikoc\Desktop\Universidade\CG\Projeto\Projeto-LI4\LI4\PitStop\PitStop\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\kikoc\Desktop\Universidade\CG\Projeto\Projeto-LI4\LI4\PitStop\PitStop\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\kikoc\Desktop\Universidade\CG\Projeto\Projeto-LI4\LI4\PitStop\PitStop\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\kikoc\Desktop\Universidade\CG\Projeto\Projeto-LI4\LI4\PitStop\PitStop\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\kikoc\Desktop\Universidade\CG\Projeto\Projeto-LI4\LI4\PitStop\PitStop\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\kikoc\Desktop\Universidade\CG\Projeto\Projeto-LI4\LI4\PitStop\PitStop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll

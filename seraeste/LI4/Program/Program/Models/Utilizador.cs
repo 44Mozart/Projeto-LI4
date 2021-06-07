@@ -41,8 +41,8 @@ namespace Program.Models
             
         [Required]
         [DataType(DataType.Password)]
-        [Display(Name = "Password")]
-        public string Password { get; set; }
+        [Display(Name = "Pass")]
+        public string Pass { get; set; }
             
         [Required]  
         [EmailAddress]

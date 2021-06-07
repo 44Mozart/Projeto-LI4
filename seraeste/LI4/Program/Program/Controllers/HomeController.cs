@@ -38,7 +38,7 @@ namespace Program.Controllers
         {
             if (ModelState.IsValid)
             {
-                Utilizador u = new Utilizador(-1, model.Username, model.Password, model.Email);
+                Utilizador u = new Utilizador(-1, model.Username, model.Pass, model.Email);
                 UtilDAO daou = new UtilDAO();
 
                 bool flag = daou.Insert(u);

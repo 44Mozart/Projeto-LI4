@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kikoc\\Desktop\\Universidade\\LI4\\LI4\\Program\\Program\\Program.csproj": {}
+    "C:\\Users\\beatr\\Desktop\\Projeto-LI4\\seraeste\\LI4\\Program\\Program\\Program.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kikoc\\Desktop\\Universidade\\LI4\\LI4\\Program\\Program\\Program.csproj": {
+    "C:\\Users\\beatr\\Desktop\\Projeto-LI4\\seraeste\\LI4\\Program\\Program\\Program.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kikoc\\Desktop\\Universidade\\LI4\\LI4\\Program\\Program\\Program.csproj",
+        "projectUniqueName": "C:\\Users\\beatr\\Desktop\\Projeto-LI4\\seraeste\\LI4\\Program\\Program\\Program.csproj",
         "projectName": "Program",
-        "projectPath": "C:\\Users\\kikoc\\Desktop\\Universidade\\LI4\\LI4\\Program\\Program\\Program.csproj",
-        "packagesPath": "C:\\Users\\kikoc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kikoc\\Desktop\\Universidade\\LI4\\LI4\\Program\\Program\\obj\\",
+        "projectPath": "C:\\Users\\beatr\\Desktop\\Projeto-LI4\\seraeste\\LI4\\Program\\Program\\Program.csproj",
+        "packagesPath": "C:\\Users\\beatr\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\beatr\\Desktop\\Projeto-LI4\\seraeste\\LI4\\Program\\Program\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\kikoc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\beatr\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -44,17 +44,9 @@
               "target": "Package",
               "version": "[5.2.3, )"
             },
-            "Microsoft.jQuery.Unobtrusive.Ajax": {
-              "target": "Package",
-              "version": "[3.2.6, )"
-            },
             "System.Data.SqlClient": {
               "target": "Package",
               "version": "[4.8.2, )"
-            },
-            "System.Web.Mvc.Expressions": {
-              "target": "Package",
-              "version": "[0.6.0, )"
             }
           },
           "imports": [
